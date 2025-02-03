@@ -10,5 +10,5 @@ vue --version
 ```
 # Create 
 ```cmd
-vue create <project_name?
+vue create <project_name>
 ```
